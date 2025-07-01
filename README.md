@@ -7,4 +7,4 @@ maximum
 mean 
 median
 the code also inclides a sorting algorithm and prints all stats
-this take 8 unsigh data by user input
+
